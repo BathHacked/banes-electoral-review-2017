@@ -47,7 +47,7 @@ For more sophisticated analysis, you can use desktop software packages, such as 
 All files are [Open Data](https://theodi.org/what-is-open-data) & can be freely used so long as you adhere to restrictions listed below. You must credit the source if attribution is required.
 
 File|Licence & Attribution
----|---|---
+---|---
 [Proposed parish wards](banes_boundary_review_2017_proposed_parish_wards.geojson)|[OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)<br>Data provided by Bath & North Somerset Council (optional)
 [Proposed wards](banes_boundary_review_2017_proposed_wards.geojson)|[OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)<br>Data provided by Bath & North Somerset Council (optional)
 [2016 polling districts](banes_polling_districts_2016.geojson)|[OGL](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)<br>Data provided by Bath & North Somerset Council (optional)
